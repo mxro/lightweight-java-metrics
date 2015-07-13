@@ -1,3 +1,7 @@
+# MOVED
+
+This project has moved to [javadelight/delight-metrics](https://github.com/javadelight/delight-metrics) and is now part of the [Java Delight Framework](http://javadelight.org).
+
 [![Build Status](https://travis-ci.org/mxro/lightweight-java-metrics.svg?branch=master)](https://travis-ci.org/mxro/lightweight-java-metrics) 
 
 # Lightweight Java Metrics
